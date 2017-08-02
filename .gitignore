@@ -1,0 +1,6 @@
+include/
+Debug/
+lib/
+.settings
+.cproject
+.project
